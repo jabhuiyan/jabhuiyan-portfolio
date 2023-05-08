@@ -166,8 +166,8 @@ nav ul li {
 }
 
 .icon {
-  width: 11.875rem;
-  height: 11.25rem;
+  width: 8.875rem;
+  height: 8.25rem;
 }
 /* Skills section ends */
 
@@ -180,7 +180,7 @@ nav ul li {
 
 .project-pic {
   width: 65%;
-  height: 60%;
+  height: 65%;
 }
 
 .projects-container {
@@ -197,7 +197,7 @@ nav ul li {
 
 .project-container {
   text-align: center;
-  width: 21.875rem;
+  width: 19%;
   padding: 1rem;
 }
 
@@ -371,12 +371,12 @@ footer {
   }
 
   .hero img {
-    height: 37.5rem;
+    height: 30rem;
     width: 30rem;
   }
 
   .bio {
-    margin-top: -7rem;
+    margin-top: -1rem;
     width: 20.5rem;
   }
 
